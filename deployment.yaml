@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: node-container
-        image: adeel2k01/node-app
+        image: adeel2k01/node-app:v2
         ports:
         - containerPort: 3000
